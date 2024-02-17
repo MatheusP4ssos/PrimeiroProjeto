@@ -1,6 +1,4 @@
 public class Main {
 }
 string nome;
-system.out.
-
-void println("mamarindo");
+system.out.println"mamarindo"
